@@ -11,8 +11,8 @@ public class Window {
 
 
     int getAreaCm2(){
-       int AreaCm2 = widthCm*heightCm;
-        return AreaCm2;
+       int areaCm2 = widthCm*heightCm;
+        return areaCm2;
     }
 
 
